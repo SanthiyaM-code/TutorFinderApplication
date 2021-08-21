@@ -67,7 +67,7 @@ public class ActivityTutorSignup extends AppCompatActivity {
                         if (task.isSuccessful())
                         {
 
-                            startActivity(new Intent(getApplicationContext(),TutorMainActivity.class));
+                            startActivity(new Intent(getApplicationContext(),ActivityTutordetails.class));
                         }
                         else
                         {
