@@ -206,6 +206,19 @@
             android:fontFamily="@font/nunito"
             android:textSize="16sp"/>
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginBottom="40dp"
+            android:layout_marginStart="28dp"
+            android:textAlignment="textEnd"
+            android:layout_marginEnd="28dp"
+            android:textColor="@color/text_blue"
+            android:text="Developed by Santhiya"
+            android:fontFamily="@font/nunito"
+            android:textSize="16sp"/>
+
 
 
 
